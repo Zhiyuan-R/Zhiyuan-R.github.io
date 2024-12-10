@@ -32,11 +32,9 @@ In my life, I read, travel, rap, and play basketball.
 
 # Selected papers
 
-- **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
-  Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2406.12045) |
-    [repo](https://github.com/sierra-research/tau-bench) |
-    [blog](https://sierra.ai/blog/benchmarking-ai-agents)
+- **InstructCLIP: Learning Instruction-Aware Visual Representation** <br>
+  Anonymous <br>
+ In submission
 
 - **Language Agents: From Next-Token Prediction to Digital Automation** <br>
   Shunyu Yao <br>
