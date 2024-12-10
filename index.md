@@ -47,13 +47,23 @@ In my life, I read, travel, rap, and play basketball.
   Zhiyuan Ren, Minchul Kim, Feng Liu, Xiaoming Liu <br>
   CVPR 2024 <br>
     [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TIGER_Time-Varying_Denoising_Model_for_3D_Point_Cloud_Generation_with_CVPR_2024_paper.pdf) |
-    [repo](https://github.com/Zhiyuan-R/Tiger-Diffusion) |
+    [repo](https://github.com/Zhiyuan-R/Tiger-Diffusion)
   
 - **Hierarchical Fine-Grained Image Forgery Detection and Localization** <br>
   Xiao Guo, Xiaohong Liu, Zhiyuan Ren, Steven Grosz, Iacopo Masi, Xiaoming Liu <br>
   CVPR 2023 <br>
     [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) |
-    [repo](https://github.com/CHELSEA234/HiFi_IFDL.git) |
+    [repo](https://github.com/CHELSEA234/HiFi_IFDL.git)
+
+- **Distilling CLIP with Dual Guidance for Learning Discriminative Human Body Shape Representation** <br>
+  Feng Liu, Minchul Kim, Zhiyuan Ren, Xiaoming Liu <br>
+  CVPR 2024 <br>
+    [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Distilling_CLIP_with_Dual_Guidance_for_Learning_Discriminative_Human_Body_CVPR_2024_paper.pdf) 
+
+- **Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion Model** <br>
+  Zhiyuan Ren, Zhihong Pan, Xin Zhou, Le Kang <br>
+  ICASSP 2022 <br>
+    [paper](https://arxiv.org/pdf/2210.12315) 
 
 <!--- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
     R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
@@ -145,18 +155,37 @@ In my life, I read, travel, rap, and play basketball.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Online talks
-- [Language Agents: From Next-Token Prediction to Digital Automation](https://www.youtube.com/watch?v=zwfE6J2BIR4)
-- [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
-- [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
-- [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
+# Experience
+## Education
+
+- **Ph.D. in progress**  
+  Michigan State University  
+  Advised by Prof. Xiaoming Liu
+
+- **Bachelor | SeedClass**  
+  Huazhong University of Science and Technology  
+  Exchange year at University of California, Santa Barbara
+
+## Internships
+
+- **Magvii** 
+  Research Intern
+
+- **SenseTime** 
+  Research Intern
+
+- **Baidu (U.S.)** 
+  Research Intern
+
+- **OPPO (U.S.)** 
+  Research Intern
 
 
-# Recent readings
+<!-- # Recent readings
 * The Double Helix (James Watson)
 * Lectures on General Relativity (David Tong)
 * What Babies Know (Elizabeth Spelke)
-* The Art of Doing Science and Engineering (Richard Hamming)
+* The Art of Doing Science and Engineering (Richard Hamming) -->
 
 
 <!--   
@@ -179,4 +208,4 @@ In my life, I read, travel, rap, and play basketball.
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Aug 2024)
+(last updated: Dec 2024)
