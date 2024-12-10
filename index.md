@@ -38,35 +38,23 @@ In my life, I read, travel, rap, and play basketball.
 
 - **ChatGPT-Powered Hierarchical Comparisons for Image Classification** <br>
   Zhiyuan Ren, Yiyang Su, Xiaoming Liu <br>
-  NeurIPS 2023
+  NeurIPS 2023 <br>
     [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc81297c791bb989deade65c6bd8c1d8-Paper-Conference.pdf) |
     [repo](https://github.com/Zhiyuan-R/ChatGPT-Powered-Hierarchical-Comparisons-for-Image-Classification) |
     [slides](https://neurips.cc/media/neurips-2023/Slides/72209_6ftwi6h.pdf)
 
-- **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
-  John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
-    [paper](https://swe-agent.com/paper.pdf) |
-    [repo](https://github.com/princeton-nlp/SWE-agent) |
-    [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
-    [project](http://www.swe-agent.com)
+- **TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process** <br>
+  Zhiyuan Ren, Minchul Kim, Feng Liu, Xiaoming Liu <br>
+  CVPR 2024 <br>
+    [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TIGER_Time-Varying_Denoising_Model_for_3D_Point_Cloud_Generation_with_CVPR_2024_paper.pdf) |
+    [repo](https://github.com/Zhiyuan-R/Tiger-Diffusion) |
   
+- **Hierarchical Fine-Grained Image Forgery Detection and Localization** <br>
+  Xiao Guo, Xiaohong Liu, Zhiyuan Ren, Steven Grosz, Iacopo Masi, Xiaoming Liu <br>
+  CVPR 2023 <br>
+    [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) |
+    [repo](https://github.com/CHELSEA234/HiFi_IFDL.git) |
 
-- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
-  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-  ICLR 2024 (Oral) <br>
-    [paper](https://arxiv.org/abs/2310.06770) |
-    [repo](https://github.com/princeton-nlp/SWE-bench) |
-    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
-    [project](http://www.swebench.com)
-
-- **Cognitive Architectures for Language Agents** <br>
-    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
-    TMLR 2024 <br>
-    [paper](https://arxiv.org/abs/2309.02427) |
-    [repo](https://github.com/ysymyth/awesome-language-agents) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
-
-    
 <!--- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
     R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.13638) |
@@ -88,47 +76,6 @@ In my life, I read, travel, rap, and play basketball.
     [tweet](https://twitter.com/ShunyuYao12/status/1681315647018663936) |
     [project](https://collie-benchmark.github.io)
    -->
-- **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
-    John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 Datasets and Benchmarks Track <br>
-    [paper](https://arxiv.org/abs/2306.14898) |
-    [repo](https://github.com/princeton-nlp/intercode) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
-    [project](https://intercode-benchmark.github.io)
-  
-- **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
-    Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 <br>
-    [paper](https://arxiv.org/abs/2303.11366) |
-    [repo](https://github.com/noahshinn024/reflexion) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
-
-- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
-    Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
-    NeurIPS 2023 (Oral) <br>
-    [paper](https://arxiv.org/abs/2305.10601) |
-    [repo](https://github.com/ysymyth/tree-of-thought-llm) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
-    
-- **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
-    Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral, top 5%) <br>
-    [paper](https://arxiv.org/abs/2210.03629) |
-    [repo](https://github.com/ysymyth/ReAct) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
-    [project](https://react-lm.github.io) |
-    [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
-    
-- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
-    Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
-    NeurIPS 2022 <br>
-    [paper](https://arxiv.org/abs/2207.01206) | 
-    [repo](https://github.com/princeton-nlp/WebShop) | 
-    [tweet](https://twitter.com/ShunyuYao12/status/1546220013186596864) |
-    [project](https://webshop-pnlp.github.io) | 
-    [demo](https://webshop-pnlp.github.io/#demo) |
-    [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
-
 <!-- - **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
     Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
     NAACL 2022 <br>
