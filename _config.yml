@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Shunyu Yao
+name: Zhiyuan Ren
 
 # Short bio or description (displayed in the header)
-description: 姚顺雨
+description: 任志远
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/4877252?s=460&u=b7267190dec8cdb2c160b5aeae14320c95badd02&v=4
@@ -20,17 +20,17 @@ about: about/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: shunyuy@princeton.edu
-  googlescholar: qJBXk9cAAAAJ
+  email: renzhiy1@msu.edu
+  googlescholar: Z1ltuXEAAAAJ
   facebook:
   flickr:
-  github: ysymyth
+  github: Zhiyuan-R
   instagram:
   linkedin: shunyu-yao-099a41115
   pinterest:
   rss: # just type anything here for a working RSS icon
   blog: blog
-  twitter: ShunyuYao12
+  twitter: ZhiyuanRen8
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
