@@ -36,12 +36,12 @@ In my life, I read, travel, rap, and play basketball.
   Anonymous <br>
  In submission
 
-- **Language Agents: From Next-Token Prediction to Digital Automation** <br>
-  Shunyu Yao <br>
-  PhD Thesis <br>
-    [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
-    [slides](https://ysymyth.github.io/papers/fpo.pdf) |
-    [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
+- **ChatGPT-Powered Hierarchical Comparisons for Image Classification** <br>
+  Zhiyuan Ren, Yiyang Su, Xiaoming Liu <br>
+  NeurIPS 2023
+    [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc81297c791bb989deade65c6bd8c1d8-Paper-Conference.pdf) |
+    [repo](https://github.com/Zhiyuan-R/ChatGPT-Powered-Hierarchical-Comparisons-for-Image-Classification) |
+    [slides](https://neurips.cc/media/neurips-2023/Slides/72209_6ftwi6h.pdf)
 
 - **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
   John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
