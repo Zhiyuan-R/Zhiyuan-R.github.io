@@ -6,7 +6,7 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self_square.png" width="220" height="220">
 
-I am a researcher at Michigan State University.
+I am a researcher at Michigan State University. [[Resume]](resume/cv.pdf)
 
 <!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
 -->
